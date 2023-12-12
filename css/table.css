@@ -246,5 +246,34 @@ td{
     margin-left: 5px;
     font-weight: 600;
 }
+  table{
+    width: 70%;   
+    border: 2px #003554e5 solid;
+    border-collapse: collapse;
+}
+    th{
+    color: #F0F3FA;
+    background-color: #003554d2;
+    padding: 5px 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+}
+    td{
+    color: #F0F3FA;
+    background-color: #00355459;
+    text-align: center;
+    padding: 5px 10px;
+    font-weight: 500;
+}
+    #update{
+    background-color: green;
+    padding: 5px 10px;
+}
+#delete{
+    background-color: red;
+    padding: 5px 10px;
+
+}
 }
 
