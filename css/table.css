@@ -111,7 +111,7 @@ body{
   }
 /* ---------------------------- */
 .container {
-    background-image: linear-gradient(rgba(12, 3, 51, 0.626), rgba(10, 4, 37, 0.703)),url(../image/gallery\ \(1\).jpg);
+    background-image: linear-gradient(rgba(12, 3, 51, 0.626), rgba(10, 4, 37, 0.703)),url(../image/wallpaper.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
